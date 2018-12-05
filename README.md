@@ -1,2 +1,2 @@
-##Pseudo-code : Code van alle opdrachten
+## Pseudo-code : Code van alle opdrachten
 
