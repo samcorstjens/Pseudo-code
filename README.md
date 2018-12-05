@@ -1,2 +1,2 @@
-# Pseudo-code
-Larp oefeningen
+##Pseudo-code : Code van alle opdrachten
+
